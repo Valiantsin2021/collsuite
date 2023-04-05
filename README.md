@@ -1,9 +1,3 @@
-# Archived
-
-> **Warning**
-> This repository has been moved to [allure-js](https://github.com/allure-framework/allure-js/tree/master/packages/newman-reporter-allure) repo within [Allure Framework](https://github.com/allure-framework) organization.
-> Thanks to everybody for participating :wave:
-
 # cusomization of newman-reporter-allure for personal purposes
 
 A newman reporter for generating nice and clean report using Allure-js framework with collection name as a suite en report results
