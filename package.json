@@ -1,5 +1,5 @@
 {
-  "name": "newman-reporter-allure",
+  "name": "collsuite",
   "version": "1.0.7",
   "description": "newman reporter for Allure",
   "main": "index.js",
@@ -22,7 +22,7 @@
   "author": "Virender",
   "license": "ISC",
   "dependencies": {
-    "allure-js-commons": "^2.0.0-beta.6",
-    "lodash": "^4.17.15"
+    "allure-js-commons": "^2.12.0",
+    "lodash": "^4.17.21"
   }
 }
